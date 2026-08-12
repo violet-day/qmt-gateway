@@ -1,0 +1,9 @@
+[project]
+name = "qmt-gateway"
+version = "0.1.0"
+description = "Bridge QuantConnect Lean to a Windows QMT client"
+readme = "README.md"
+requires-python = "==3.11.*"
+dependencies = [
+    "xtquant==250807.1.2",
+]
