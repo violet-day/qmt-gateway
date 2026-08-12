@@ -16,7 +16,7 @@ requires-dist = [{ name = "xtquant", specifier = "==250807.1.2" }]
 [[package]]
 name = "xtquant"
 version = "250807.1.2"
-source = { registry = "https://pypi.org/simple" }
+source = { registry = "https://mirrors.cloud.tencent.com/pypi/simple" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b4/bb/a5fa80e4cf880d320e6abc75bb061075824bc3c0a7f55446f90f79013159/xtquant-250807.1.2-py3-none-any.whl", hash = "sha256:91f19ff9a92971c5abe64fbd077e5212e0418f0820aa3427aef3444230f72921", size = 34370142, upload-time = "2026-07-21T04:49:19.766Z" },
+    { url = "https://mirrors.cloud.tencent.com/pypi/packages/b4/bb/a5fa80e4cf880d320e6abc75bb061075824bc3c0a7f55446f90f79013159/xtquant-250807.1.2-py3-none-any.whl", hash = "sha256:91f19ff9a92971c5abe64fbd077e5212e0418f0820aa3427aef3444230f72921" },
 ]

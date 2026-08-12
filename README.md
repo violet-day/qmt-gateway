@@ -7,6 +7,7 @@ Windows 上的 QMT/xtquant 接入项目。
 - Python `3.11.13` x64
 - xtquant `250807.1.2`
 - 依赖管理：uv
+- Python 包源：腾讯云 PyPI 镜像
 
 `xtquant` 包含 Windows x64 原生扩展，因此程序必须在 Windows 上运行。
 
